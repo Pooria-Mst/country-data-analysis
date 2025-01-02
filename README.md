@@ -6,4 +6,4 @@ Dataset Description country: Name of the country. child_mort: Child mortality ra
 The objective of this dataset is to determine how to distribute a fixed amount of funding among countries. To ensure a fair and effective allocation, we analyzed the data and created clusters to identify which countries require more assistance. Since the dataset lacks a target variable, we applied unsupervised learning methods, both before and after applying PCA, to achieve the best results.
 
 Dataset link:
-https://www.kaggle.com/datasets/parnianmalekian/country-dataset
+https://www.kaggle.com/datasets/parnianmalekian/country-dataset 
